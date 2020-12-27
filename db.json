@@ -11,7 +11,7 @@
         "department": { "id": "1", "name": "Бухгалтерия" },
         "position": "Главный бухгалтер",
         "gender": "1",
-        "birthDate": "11-12-1976"
+        "birthDate": "11.12.1976"
     },
     {
         "id": "2",
@@ -19,7 +19,7 @@
         "department": { "id": "2", "name": "IT" },
         "position": "Старший программист",
         "gender": "1",
-        "birthDate": "13-08-1991"
+        "birthDate": "13.08.1991"
     },
     {
         "id": "3",
@@ -27,7 +27,7 @@
         "department": { "id": "3", "name": "Маркетинг" },
         "position": "SEO менеджер",
         "gender": "1",
-        "birthDate": "16-06-1997"
+        "birthDate": "16.06.1997"
     },
     {
         "id": "4",
@@ -35,7 +35,7 @@
         "department": { "id": "1", "name": "Бухгалтерия" },
         "position": "Помощника бухгалтера",
         "gender": "1",
-        "birthDate": "24-05-1995"
+        "birthDate": "24.05.1995"
     },
     {
         "id": "5",
@@ -43,7 +43,7 @@
         "department": { "id": "2", "name": "IT" },
         "position": "Android разработчик",
         "gender": "1",
-        "birthDate": "31-11-2000"
+        "birthDate": "31.11.2000"
     },
     {
         "id": "6",
@@ -51,7 +51,7 @@
         "department": { "id": "3", "name": "Маркетинг" },
         "position": "SMM специалист",
         "gender": "1",
-        "birthDate": "22-02-1970"
+        "birthDate": "22.02.1970"
     },
     {
         "id": "7",
@@ -59,7 +59,7 @@
         "department": { "id": "1", "name": "Бухгалтерия" },
         "position": "Экономист",
         "gender": "1",
-        "birthDate": "24-03-1967"
+        "birthDate": "24.03.1967"
     },
     {
         "id": "8",
@@ -67,7 +67,7 @@
         "department": { "id": "3", "name": "Маркетинг" },
         "position": "Таргетолог",
         "gender": "1",
-        "birthDate": "11-12-1998"
+        "birthDate": "11.12.1998"
     },
     {
         "id": "9",
@@ -75,15 +75,15 @@
         "department": { "id": "3", "name": "Маркетинг" },
         "position": "Специалист по Instagram",
         "gender": "1",
-        "birthDate": "21-01-1992"
+        "birthDate": "21.01.1992"
     },
     {
         "id": "10",
         "fullName": "Серебров Арам Вячеславович",
         "department": { "id": "2", "name": "IT" },
-        "position": "IOS ращработчик",
+        "position": "IOS разработчик",
         "gender": "1",
-        "birthDate": "12-12-1998"
+        "birthDate": "12.12.1998"
     },
     {
         "id": "11",
@@ -91,7 +91,7 @@
         "department": { "id": "1", "name": "Бухгалтерия" },
         "position": "Помощник главного экономиста",
         "gender": "1",
-        "birthDate": "17-09-1994"
+        "birthDate": "17.09.1994"
     },
     {
         "id": "12",
@@ -99,7 +99,7 @@
         "department": { "id": "1", "name": "Бухгалтерия" },
         "position": "Стажер экономист",
         "gender": "1",
-        "birthDate": "09-12-1978"
+        "birthDate": "09.12.1978"
     },
     {
         "id": "13",
@@ -107,7 +107,7 @@
         "department": { "id": "1", "name": "Бухгалтерия" },
         "position": "Бухгалтер по учету НДС",
         "gender": "1",
-        "birthDate": "28-11-1993"
+        "birthDate": "28.11.1993"
     },
     {
         "id": "14",
@@ -115,7 +115,7 @@
         "department": { "id": "1", "name": "Бухгалтерия" },
         "position": "Бухгалтер кассир",
         "gender": "1",
-        "birthDate": "26-12-1988"
+        "birthDate": "26.12.1988"
     },
     {
         "id": "15",
@@ -123,23 +123,23 @@
         "department": { "id": "3", "name": "Маркетинг" },
         "position": "Копирайтер",
         "gender": "1",
-        "birthDate": "23-10-1991"
+        "birthDate": "23.10.1991"
     },
     {
         "id": "16",
         "fullName": "Шеломов Филимон Герасимович",
         "department": { "id": "1", "name": "Маркетинг" },
-        "position": "Аккаунт-менеджер",
+        "position": "Аккаунт.менеджер",
         "gender": "1",
-        "birthDate": "01-03-1973"
+        "birthDate": "01.03.1973"
     },
     {
         "id": "17",
         "fullName": "Бессонов Олесь Арсеньевич",
         "department": { "id": "3", "name": "Маркетинг" },
-        "position": "Бренд-менеджер",
+        "position": "Бренд.менеджер",
         "gender": "1",
-        "birthDate": "11-12-1988"
+        "birthDate": "11.12.1988"
     },
     {
         "id": "18",
@@ -147,7 +147,7 @@
         "department": { "id": "2", "name": "IT" },
         "position": "DevOps инжинир",
         "gender": "1",
-        "birthDate": "12-02-1983"
+        "birthDate": "12.02.1983"
     },
     {
         "id": "19",
@@ -155,7 +155,7 @@
         "department": { "id": "2", "name": "IT" },
         "position": "Системный администратор",
         "gender": "1",
-        "birthDate": "01-05-1987"
+        "birthDate": "01.05.1987"
     },
     {
         "id": "20",
@@ -163,7 +163,7 @@
         "department": { "id": "2", "name": "IT" },
         "position": "Веб разработчик",
         "gender": "1",
-        "birthDate": "13-02-1976"
+        "birthDate": "13.02.1976"
     }
   ]
 }
