@@ -11,7 +11,7 @@
         "department": "1",
         "position": "Главный бухгалтер",
         "gender": "1",
-        "birthDate": "11.12.1976"
+        "birthDate": "1970-03-14"
     },
     {
         "id": "2",
@@ -19,7 +19,7 @@
         "department": "2",
         "position": "Старший программист",
         "gender": "1",
-        "birthDate": "13.08.1991"
+        "birthDate": "2001-12-31"
     },
     {
         "id": "3",
@@ -27,7 +27,7 @@
         "department": "3",
         "position": "SEO менеджер",
         "gender": "1",
-        "birthDate": "16.06.1997"
+        "birthDate": "2000-10-10"
     },
     {
         "id": "4",
@@ -35,7 +35,7 @@
         "department": "1",
         "position": "Помощника бухгалтера",
         "gender": "1",
-        "birthDate": "24.05.1995"
+        "birthDate": "2000-03-08"
     },
     {
         "id": "5",
@@ -43,7 +43,7 @@
         "department": "2",
         "position": "Android разработчик",
         "gender": "1",
-        "birthDate": "31.11.2000"
+        "birthDate": "1971-01-28"
     },
     {
         "id": "6",
@@ -51,7 +51,7 @@
         "department": "3",
         "position": "SMM специалист",
         "gender": "1",
-        "birthDate": "22.02.1970"
+        "birthDate": "1971-04-10"
     },
     {
         "id": "7",
@@ -59,7 +59,7 @@
         "department": "1",
         "position": "Экономист",
         "gender": "1",
-        "birthDate": "24.03.1967"
+        "birthDate": "1972-07-11"
     },
     {
         "id": "8",
@@ -67,7 +67,7 @@
         "department": "3",
         "position": "Таргетолог",
         "gender": "1",
-        "birthDate": "11.12.1998"
+        "birthDate": "1990-12-04"
     },
     {
         "id": "9",
@@ -75,7 +75,7 @@
         "department": "3",
         "position": "Специалист по Instagram",
         "gender": "1",
-        "birthDate": "21.01.1992"
+        "birthDate": "1989-07-05"
     },
     {
         "id": "10",
@@ -83,7 +83,7 @@
         "department": "2",
         "position": "IOS разработчик",
         "gender": "1",
-        "birthDate": "12.12.1998"
+        "birthDate": "1987-01-21"
     },
     {
         "id": "11",
@@ -91,7 +91,7 @@
         "department": "1",
         "position": "Помощник главного экономиста",
         "gender": "1",
-        "birthDate": "17.09.1994"
+        "birthDate": "1975-06-07"
     },
     {
         "id": "12",
@@ -99,7 +99,7 @@
         "department": "1",
         "position": "Стажер экономист",
         "gender": "1",
-        "birthDate": "09.12.1978"
+        "birthDate": "1977-04-15"
     },
     {
         "id": "13",
@@ -107,7 +107,7 @@
         "department": "1",
         "position": "Бухгалтер по учету НДС",
         "gender": "1",
-        "birthDate": "28.11.1993"
+        "birthDate": "1979-09-17"
     },
     {
         "id": "14",
@@ -115,7 +115,7 @@
         "department": "1",
         "position": "Бухгалтер кассир",
         "gender": "1",
-        "birthDate": "26.12.1988"
+        "birthDate": "1985-12-03"
     },
     {
         "id": "15",
@@ -123,7 +123,7 @@
         "department": "3",
         "position": "Копирайтер",
         "gender": "1",
-        "birthDate": "23.10.1991"
+        "birthDate": "1985-03-17"
     },
     {
         "id": "16",
@@ -131,7 +131,7 @@
         "department": { "id": "1", "name": "Маркетинг" },
         "position": "Аккаунт.менеджер",
         "gender": "1",
-        "birthDate": "01.03.1973"
+        "birthDate": "1984-03-26"
     },
     {
         "id": "17",
@@ -139,7 +139,7 @@
         "department": "3",
         "position": "Бренд.менеджер",
         "gender": "1",
-        "birthDate": "11.12.1988"
+        "birthDate": "1980-09-25"
     },
     {
         "id": "18",
@@ -147,7 +147,7 @@
         "department": "2",
         "position": "DevOps инжинир",
         "gender": "1",
-        "birthDate": "12.02.1983"
+        "birthDate": "1984-01-20"
     },
     {
         "id": "19",
@@ -155,7 +155,7 @@
         "department": "2",
         "position": "Системный администратор",
         "gender": "1",
-        "birthDate": "01.05.1987"
+        "birthDate": "1975-09-05"
     },
     {
         "id": "20",
@@ -163,7 +163,7 @@
         "department": "2",
         "position": "Веб разработчик",
         "gender": "1",
-        "birthDate": "13.02.1976"
+        "birthDate": "1981-03-15"
     }
   ]
 }
