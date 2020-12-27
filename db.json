@@ -1,14 +1,14 @@
 {
   "department": [
     { "id": "1", "name": "Бухгалтерия" },
-    { "id": "2", "name": "IT" },
-    { "id": "3", "name": "Маркетинг" }
+    : "2",
+    : "3"
   ],
   "employees": [
     {
         "id": "1",
         "fullName": "Остапюк Ростислав Андреевич",
-        "department": { "id": "1", "name": "Бухгалтерия" },
+        "department": "1",
         "position": "Главный бухгалтер",
         "gender": "1",
         "birthDate": "11.12.1976"
@@ -16,7 +16,7 @@
     {
         "id": "2",
         "fullName": "Деникин Галактион Вадимович",
-        "department": { "id": "2", "name": "IT" },
+        "department": : "2",
         "position": "Старший программист",
         "gender": "1",
         "birthDate": "13.08.1991"
@@ -24,7 +24,7 @@
     {
         "id": "3",
         "fullName": "Черников Митрофан Викентьевич",
-        "department": { "id": "3", "name": "Маркетинг" },
+        "department": : "3",
         "position": "SEO менеджер",
         "gender": "1",
         "birthDate": "16.06.1997"
@@ -32,7 +32,7 @@
     {
         "id": "4",
         "fullName": "Игнаткович Максим Филиппович",
-        "department": { "id": "1", "name": "Бухгалтерия" },
+        "department": "1",
         "position": "Помощника бухгалтера",
         "gender": "1",
         "birthDate": "24.05.1995"
@@ -40,7 +40,7 @@
     {
         "id": "5",
         "fullName": "Карантиров Вальтер Кондратьевич",
-        "department": { "id": "2", "name": "IT" },
+        "department": : "2",
         "position": "Android разработчик",
         "gender": "1",
         "birthDate": "31.11.2000"
@@ -48,7 +48,7 @@
     {
         "id": "6",
         "fullName": "Маринин Серафим Никитич",
-        "department": { "id": "3", "name": "Маркетинг" },
+        "department": : "3",
         "position": "SMM специалист",
         "gender": "1",
         "birthDate": "22.02.1970"
@@ -56,7 +56,7 @@
     {
         "id": "7",
         "fullName": "Чебыкин Аркадий Львович",
-        "department": { "id": "1", "name": "Бухгалтерия" },
+        "department": "1",
         "position": "Экономист",
         "gender": "1",
         "birthDate": "24.03.1967"
@@ -64,7 +64,7 @@
     {
         "id": "8",
         "fullName": "Худяков Савва Геннадьевич",
-        "department": { "id": "3", "name": "Маркетинг" },
+        "department": : "3",
         "position": "Таргетолог",
         "gender": "1",
         "birthDate": "11.12.1998"
@@ -72,7 +72,7 @@
     {
         "id": "9",
         "fullName": "Караулин Христиан Григорьевич",
-        "department": { "id": "3", "name": "Маркетинг" },
+        "department": : "3",
         "position": "Специалист по Instagram",
         "gender": "1",
         "birthDate": "21.01.1992"
@@ -80,7 +80,7 @@
     {
         "id": "10",
         "fullName": "Серебров Арам Вячеславович",
-        "department": { "id": "2", "name": "IT" },
+        "department": : "2",
         "position": "IOS разработчик",
         "gender": "1",
         "birthDate": "12.12.1998"
@@ -88,7 +88,7 @@
     {
         "id": "11",
         "fullName": "Стародубов Рафик Вениаминович",
-        "department": { "id": "1", "name": "Бухгалтерия" },
+        "department": "1",
         "position": "Помощник главного экономиста",
         "gender": "1",
         "birthDate": "17.09.1994"
@@ -96,7 +96,7 @@
     {
         "id": "12",
         "fullName": "Изюмов Парамон Серафимович",
-        "department": { "id": "1", "name": "Бухгалтерия" },
+        "department": "1",
         "position": "Стажер экономист",
         "gender": "1",
         "birthDate": "09.12.1978"
@@ -104,7 +104,7 @@
     {
         "id": "13",
         "fullName": "Случевский Бруно Анатольевич",
-        "department": { "id": "1", "name": "Бухгалтерия" },
+        "department": "1",
         "position": "Бухгалтер по учету НДС",
         "gender": "1",
         "birthDate": "28.11.1993"
@@ -112,7 +112,7 @@
     {
         "id": "14",
         "fullName": "Давыдкин Иннокентий Денисович",
-        "department": { "id": "1", "name": "Бухгалтерия" },
+        "department": "1",
         "position": "Бухгалтер кассир",
         "gender": "1",
         "birthDate": "26.12.1988"
@@ -120,7 +120,7 @@
     {
         "id": "15",
         "fullName": "Теребов Корнилий Владиславович",
-        "department": { "id": "3", "name": "Маркетинг" },
+        "department": : "3",
         "position": "Копирайтер",
         "gender": "1",
         "birthDate": "23.10.1991"
@@ -136,7 +136,7 @@
     {
         "id": "17",
         "fullName": "Бессонов Олесь Арсеньевич",
-        "department": { "id": "3", "name": "Маркетинг" },
+        "department": : "3",
         "position": "Бренд.менеджер",
         "gender": "1",
         "birthDate": "11.12.1988"
@@ -144,7 +144,7 @@
     {
         "id": "18",
         "fullName": "Илюшкин Венедикт Ипполитович",
-        "department": { "id": "2", "name": "IT" },
+        "department": : "2",
         "position": "DevOps инжинир",
         "gender": "1",
         "birthDate": "12.02.1983"
@@ -152,7 +152,7 @@
     {
         "id": "19",
         "fullName": "Игошин Даниил Афанасьевич",
-        "department": { "id": "2", "name": "IT" },
+        "department": : "2",
         "position": "Системный администратор",
         "gender": "1",
         "birthDate": "01.05.1987"
@@ -160,7 +160,7 @@
     {
         "id": "20",
         "fullName": "Лясин Ясон Григорьевич",
-        "department": { "id": "2", "name": "IT" },
+        "department": : "2",
         "position": "Веб разработчик",
         "gender": "1",
         "birthDate": "13.02.1976"
